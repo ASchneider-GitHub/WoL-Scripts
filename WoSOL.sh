@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#Test line ignore this
-
 # IP address of target PC
 targetPCIP="xxx.xxx.xxx.xxx"
 # Broadcast address of network the target PC is on
